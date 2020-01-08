@@ -13,6 +13,7 @@ const dict = {
         "sprint",
         "SAFe",
         "scrum",
+        "Remo",
         "retrospective",
         "feature",
         "milestone",
